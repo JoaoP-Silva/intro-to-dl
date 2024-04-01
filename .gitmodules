@@ -1,0 +1,3 @@
+[submodule "deep-ufmg"]
+	path = deep-ufmg
+	url = https://github.com/flaviovdf/deep-ufmg.git
